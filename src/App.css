@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 }
+.name{
+  color: rgb(43, 226, 43);
+  text-align: center;
+  text-decoration: underline;
+}
+nav{
+  background-color: black;
+  color: azure;
+}
+li{
+  display: inline;
+  /* margin: 15px; */
+  
+}
+h2{
+  color: rgb(15, 12, 13);
+  text-align: center;
+  text-decoration-line: underline;
+}
+.container2{
+  padding-top: 20px;
+  /* border: solid black 3px; */
+padding-left: 20px;
+}
+.btnbtnprimary{
+  background-color: blue;
+  color: aliceblue;
+  margin-bottom: 20px;
+}
+.form-check-label{
+  color: blue;
+  padding-right: 9px;
+}
+.abovefoot,ul,li{
+display: block;
+}
